@@ -68,7 +68,7 @@ name: [Name, 'http://www.example.com']
 ```
 
 Please refer to the [template][template] and the [`schema.yaml`][schema] file
-when adding new games.
+when adding new games. 
 
 
 [games]: https://github.com/piranha/osgameclones/tree/master/games
